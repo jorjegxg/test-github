@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 dragon prince
 avatar the last airbender 
 arcane
+=======
+pizza 
+iaurt
+budinca
+>>>>>>> food
